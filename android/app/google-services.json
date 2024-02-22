@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "101817433546",
+    "project_id": "elinefb-1b217",
+    "storage_bucket": "elinefb-1b217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101817433546:android:74e6ac732e82a118ec2333",
+        "android_client_info": {
+          "package_name": "com.mycompany.eline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101817433546-lqn8jvkr46q1m6ti6co354cick8sa18f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.eline",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "101817433546-tirbvr3oq5vt7lvg40ijn5ph836ogj9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f_Qup7diZXSkApRE7DuQmTBL0PPznsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101817433546-tirbvr3oq5vt7lvg40ijn5ph836ogj9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "101817433546-kprpbglctltjgcr915kg3ic01mpguqmh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.eline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
